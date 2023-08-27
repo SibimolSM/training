@@ -1,0 +1,111 @@
+.card {
+  position: relative;
+  margin: auto;
+  width: 650px;
+  margin-top: 106px;
+  height: 530px;
+  background-color: antiquewhite;
+  border-radius: 12px;
+}
+.container {
+  display: inline-block;
+}
+.heading {
+  padding: 12px 45px;
+  color: rgb(22, 22, 19);
+}
+input:focus {
+  outline:none;
+}
+.name-1 {
+  transform: translate(23px, 2px);
+  background-color: transparent;
+  border: none;
+  text-decoration: none;
+}
+.line-1 {
+  position: absolute;
+  width: 80%;
+  left: 23px;
+}
+.name-2 {
+  transform: translate(23px, 20px);
+  background-color: transparent;
+  border: none;
+}
+.line-2 {
+  position: absolute;
+  width: 22%;
+  transform: translate(23px, 20px);
+}
+.icon {
+  transform: translate(23px, 21px);
+}
+.line-3 {
+  position: absolute;
+  width: 18%;
+  transform: translate(217px, 20px);
+}
+.line-4 {
+  position: absolute;
+  width: 18%;
+  transform: translate(388px, 20px);
+}
+.sub {
+  padding: 64px 46px;
+}
+
+.name-3 {
+  background-color: transparent;
+  border: none;
+  transform: translate(23px, -25px);
+}
+.line-5 {
+  position: absolute;
+  width: 22%;
+  transform: translate(25px, -28px);
+}
+.line-6 {
+  position: absolute;
+  width: 22%;
+  transform: translate(193px, -28px);
+}
+.name-4 {
+  background-color: transparent;
+  border: none;
+  transform: translate(23px, -13px);
+}
+.line-7 {
+  position: absolute;
+  width: 22%;
+  transform: translate(25px, -16px);
+}
+.name-4 .line-8 {
+  position: absolute;
+  width: 22%;
+  transform: translate(194px, -16px);
+}
+.footer {
+  position: relative;
+  transform: translate(48px, 5px);
+}
+.btn {
+  transform: translate(469px, -37px);
+  width: 100px;
+  height: 35px;
+  border-radius: 12px;
+  border: none;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.btn-1 {
+  position: relative;
+  top: -8px;
+}
+.name-0 {
+  width: 100px;
+}
+input:focus {
+  outline-color: antiquewhite;
+}
